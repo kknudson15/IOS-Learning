@@ -12,3 +12,4 @@ A collection of work learning IOS coding
   
 ## **Other Swift Work in this Repository**
   1. Swift Deep Dive Begin
+  2. Swift Deep Dive Functions
