@@ -9,6 +9,7 @@ A collection of work learning IOS coding
   4. Magic 8 Ball
   5. Xylophone
   6. Egg Timer
+  7. Quizzler
   
   
 ## **Other Swift Work in this Repository**
