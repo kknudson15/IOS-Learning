@@ -10,6 +10,7 @@ A collection of work learning IOS coding
   5. Xylophone
   6. Egg Timer
   7. Quizzler
+  8. Destini
   
   
 ## **Other Swift Work in this Repository**
