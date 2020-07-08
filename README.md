@@ -11,6 +11,7 @@ A collection of work learning IOS coding
   6. Egg Timer
   7. Quizzler
   8. Destini
+  9. BMI-Calculator
   
   
 ## **Other Swift Work in this Repository**
