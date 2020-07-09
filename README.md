@@ -19,3 +19,5 @@ A collection of work learning IOS coding
   2. Swift Deep Dive Functions
   3. Swift Deep Dive Intermediate
   4. Swift Deep Dive Structures
+  5. ClassesDemo
+  6. OptionalDemo
