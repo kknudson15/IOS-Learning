@@ -12,6 +12,7 @@ A collection of work learning IOS coding
   7. Quizzler
   8. Destini
   9. BMI-Calculator
+  9. Tipsy
   
   
 ## **Other Swift Work in this Repository**
