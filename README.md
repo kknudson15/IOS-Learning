@@ -3,16 +3,17 @@ A collection of work learning IOS coding
 
 
 ## **Apps Contained in this Repository** 
-  1. I Am Rich
-  2. I Am Poor
-  3. Dicee
-  4. Magic 8 Ball
-  5. Xylophone
-  6. Egg Timer
-  7. Quizzler
-  8. Destini
-  9. BMI-Calculator
-  9. Tipsy
+  1.  I Am Rich
+  2.  I Am Poor
+  3.  Dicee
+  4.  Magic 8 Ball
+  5.  Xylophone
+  6.  Egg Timer
+  7.  Quizzler
+  8.  Destini
+  9.  BMI-Calculator
+  9.  Tipsy
+  10. Clima 
   
   
 ## **Other Swift Work in this Repository**
