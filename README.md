@@ -23,3 +23,6 @@ A collection of work learning IOS coding
   4. Swift Deep Dive Structures
   5. ClassesDemo
   6. OptionalDemo
+  7. ClosuresDemo
+  8. ProtocolsDemo
+  9. ExtensionsDemo
