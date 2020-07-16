@@ -13,7 +13,8 @@ A collection of work learning IOS coding
   8.  Destini
   9.  BMI-Calculator
   9.  Tipsy
-  10. Clima 
+  10. Clima
+  11. ByteCoin
   
   
 ## **Other Swift Work in this Repository**
